@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "236221925547",
-    "firebase_url": "https://spliter-x-9132b-default-rtdb.firebaseio.com",
-    "project_id": "spliter-x-9132b",
-    "storage_bucket": "spliter-x-9132b.appspot.com"
+    "project_number": "863277705724",
+    "project_id": "spliter-x-7bf00",
+    "storage_bucket": "spliter-x-7bf00.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:236221925547:android:c1b50e7f8c34977bb14fee",
+        "mobilesdk_app_id": "1:863277705724:android:a2f87e8aa30d683d15ea79",
         "android_client_info": {
           "package_name": "com.example.spliter_x"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzplGhA9XLGUFhXvvPwioKRNe65P_7Tsw"
+          "current_key": "AIzaSyDwyGF5PUFFa7BnwqOhoHM0LdIsNjCsiU0"
         }
       ],
       "services": {
