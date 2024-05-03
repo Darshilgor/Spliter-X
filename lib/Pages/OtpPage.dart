@@ -1,10 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:spliter_x/Pages/HomeScreenView.dart';
-import 'package:spliter_x/Pages/SignupPage.dart';
 import 'package:spliter_x/Services/Conts.dart';
-import 'package:spliter_x/Services/Navigator.dart';
 import 'package:spliter_x/Services/OtpServices.dart';
 import 'package:spliter_x/Services/Widgets.dart';
 

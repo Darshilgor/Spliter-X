@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:spliter_x/Models/UserModel.dart';
 import 'package:spliter_x/Services/Conts.dart';
